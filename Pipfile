@@ -8,6 +8,8 @@ tensorflow = "*"
 split-folders = "*"
 tqdm = "*"
 matplotlib = "*"
+ipykernel = "*"
+scipy = "*"
 
 [dev-packages]
 
