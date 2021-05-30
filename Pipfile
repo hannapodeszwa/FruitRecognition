@@ -10,6 +10,7 @@ tqdm = "*"
 matplotlib = "*"
 ipykernel = "*"
 scipy = "*"
+tflite-model-maker = "*"
 
 [dev-packages]
 
