@@ -4,3 +4,7 @@
 
 /.vs/FruitRecognition/v16
 /.vs
+/.vscode
+/.Pipfile
+/.Pipfile.lock
+/.fruitSplit
